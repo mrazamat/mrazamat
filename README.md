@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azamat
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in JAVA 
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
