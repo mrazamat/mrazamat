@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azamat
-- 👀 I’m interested in kotlin, AI 
-- 🌱 I’m currently learning mobile development
+- 👀 I’m interested in java, kotlin, AI 
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
