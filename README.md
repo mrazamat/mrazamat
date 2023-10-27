@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Azamat
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in Programming
